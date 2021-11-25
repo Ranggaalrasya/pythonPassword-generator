@@ -1,2 +1,6 @@
-# pythonPassword-generator
-an old  password generator made with python  with length and strength choices
+# Password-generator-app-python
+
+
+#tahap belajar dan pengembangan, silakan jika mau di kembangkan lagi
+
+##Learning and development stage.
